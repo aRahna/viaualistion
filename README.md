@@ -1,2 +1,2 @@
-# viaualistion
+# Visualization in Python
 for hse course
